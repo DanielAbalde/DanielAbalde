@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there 👋,
+- 🦚 Currently developing Peacock (3d jewelry plugin for Rhinoceros and Grasshopper), when job and social life permits.
+- 📖 I write seriously in C#, and sometimes I play with Processing in JavaScript. 
 
-<!--
-**DanielAbalde/DanielAbalde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### About
+- 🌦️ I'm from [Vigo](https://www.google.com/search?q=vigo+playa+de+samil&tbm=isch&ved=2ahUKEwjeiPep88zvAhURohoKHd3cCdIQ2-cCegQIABAA&oq=vigo+playa+de+samil&gs_lcp=CgNpbWcQAzIGCAAQCBAeMgYIABAIEB46AggAOgYIABAFEB46BAgAEB5QxFpYjmhgzmloAHAAeACAATeIAboFkgECMTSYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=d0VdYJ7xKpHEat25p5AN&bih=912&biw=1920&rlz=1C1CHBF_en-GBGB823GB823) but I am in London since 2018. I need more sun. 
+- 🍍 I am fascinated by procedural modelling, morphogenesis, differential geometry, AI and data design.
+- 💖 When I need to feel better I jam with a drumpad and a piano midi.
+- ✨ But the only thing I'm good at is finding cool problems and obsessing over them until I solve them.
 
-Here are some ideas to get you started:
+#### Contact
+- 🎧 We can chat in my [Discord](https://discord.gg/XFGCpXewN4) server.
+- 🦚 I'll stream in the [Peacock's Discord](https://discord.gg/jKVhqKQEnA) server at some point.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Support
+- 🤲 I want to live decentralised, supported by whoever uses what I do.
+- 🍻 You can support me in [OpenCollective](https://opencollective.com/daniga) and [Patreon](https://www.patreon.com/PeacockGH).

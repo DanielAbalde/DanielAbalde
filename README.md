@@ -12,6 +12,7 @@
 #### Contact
 - 🎧 We can chat in my [Discord](https://discord.gg/XFGCpXewN4) server.
 - 🦚 I'll stream in the [Peacock's Discord](https://discord.gg/jKVhqKQEnA) server at some point.
+- 📰 I place my news on [Facebook](https://www.facebook.com/DanielAbaldeDesigner).
 
 #### Support
 - 🤲 I want to live decentralised, supported by whoever uses what I do.

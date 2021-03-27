@@ -1,5 +1,5 @@
 ### Hey there 👋,
-- 🦚 Currently developing the next version of [Peacock](https://www.food4rhino.com/app/peacock) (3d jewelry plugin for Rhinoceros and Grasshopper), when job and social life permits.
+- 🦚 Developing the next version of [Peacock](https://www.food4rhino.com/app/peacock) (3d jewelry plugin for Rhinoceros and Grasshopper), when job and social life permits.
 - 📖 I write seriously in C#, and sometimes I play with Processing in JavaScript.
 - 🦗 I'm not sure I´m a good Grasshopper teacher, my last student's boss hired me.
 

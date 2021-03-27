@@ -10,11 +10,14 @@
 - ✨ But the only thing I'm good at is finding cool problems and obsessing over them until I solve them.
 
 #### Contact 
-- <p> 🎧 We can chat on my <a href="https://discord.gg/XFGCpXewN4">Discord </a><a href="https://discord.gg/XFGCpXewN4"><img alt="Dani's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" /></a>  server. </p>
-- <p> 🦚 I'll stream on the <a href="https://discord.gg/jKVhqKQEnA">Peacock's Discord </a><a href="https://discord.gg/jKVhqKQEnA"><img alt="Peacock's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" /></a> server at some point. </p>
-- <p> 📰 I place my news on <a href="https://www.facebook.com/DanielAbaldeDesigner">Facebook</a> <a href="https://www.facebook.com/DanielAbaldeDesigner"><img alt="Dani's Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" /></a>. </p>
+- 🎧 We can chat on my [Discord](https://discord.gg/XFGCpXewN4) server.
+- 🦚 I'll stream on the [Peacock's Discord](https://discord.gg/jKVhqKQEnA) server at some point.
+- 📰 I place my news on [Facebook](https://www.facebook.com/DanielAbaldeDesigner). 
  
 
 #### Support
 - 🤲 I want to live decentralised, supported by whoever uses what I do. 
-- <p> 🍻 You can support me in <a href="https://opencollective.com/daniga">OpenCollective</a> <a href="https://opencollective.com/daniga"><img alt="Dani's OpenCollective" width="22px" src="https://avatars.githubusercontent.com/u/13403593?s=400&v=4" /></a> and <a href="https://www.patreon.com/PeacockGH">Patreon</a> <a href="https://discord.gg/XFGCpXewN4"><img alt="Peacock's Patreon" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/patreon.svg" /></a>.</p>
+- 🍻 You can support me in [OpenCollective](https://opencollective.com/daniga) and [Patreon](https://www.patreon.com/PeacockGH).
+
+
+<!-- ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=DanielAbalde.DanielAbalde) -->

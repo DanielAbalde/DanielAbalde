@@ -17,7 +17,7 @@
 
 #### Support
 - 🤲 I want to live decentralised, supported by whoever uses what I do. 
-- 🍻 You can support me in [Patreon](https://www.patreon.com/PeacockGH), [OpenCollective](https://opencollective.com/daniga) and [PayPal](https://www.paypal.com/paypalme/danielabalde).
+- 🍻 You can support me in [Patreon](https://www.patreon.com/PeacockGH), [OpenCollective](https://opencollective.com/daniga) and [PayPal](https://www.paypal.com/paypalme/danielabalde), thanks! 🙂
 
  
  #### My plugins   

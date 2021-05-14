@@ -10,7 +10,7 @@
 
 #### Contact 
 - 🎧 We can chat on my [Discord](https://discord.gg/XFGCpXewN4) server or on the [Peacock's Discord](https://discord.gg/jKVhqKQEnA).
-- 📰 I place my news and designs on [Facebook](https://www.facebook.com/DanielAbaldeDesigner). I don't like the email.
+- 📰 I place my news and designs on [Facebook](https://www.facebook.com/DanielAbaldeDesigner). I don't like email.
  
 
 #### Support

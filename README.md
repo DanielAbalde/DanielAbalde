@@ -1,4 +1,4 @@
-<p align="center"><img alt="banner" height="100%" src="https://raw.githubusercontent.com/DanielAbalde/DanielAbalde/main/processingTypoParticles.gif"></p>
+<p align="center"><img alt="banner" src="https://raw.githubusercontent.com/DanielAbalde/DanielAbalde/main/processingTypoParticles.gif"></p>
 
 ### Hey there 👋,
 - 🦗 I develop plugins for Grasshopper and Rhinoceros (3d modelling). 

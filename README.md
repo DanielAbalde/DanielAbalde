@@ -9,8 +9,8 @@
 - 💖 I love procedural geometry, morphogenesis, AI and data design.
 
 #### Contact 
-- 🎧 We can chat on my [Discord](https://discord.gg/XFGCpXewN4) server or on the [Peacock's Discord](https://discord.gg/jKVhqKQEnA).
-- 📰 I place my news and designs on [Facebook](https://www.facebook.com/DanielAbaldeDesigner). I don't like email.
+- 🎧 I use [Discord](https://discord.gg/XFGCpXewN4) to publish my news and give support for my plugins.
+- 📰 I have some designs on [Facebook](https://www.facebook.com/DanielAbaldeDesigner). Please don't write to me by email.
  
 
 #### Support

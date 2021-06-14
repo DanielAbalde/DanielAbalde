@@ -34,4 +34,4 @@
 <!-- ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=DanielAbalde.DanielAbalde) -->
 
  #### Let's talk.  
- ![Discord Banner 2](https://discordapp.com/api/guilds/791292441302401054/widget.png?style=banner2)
+ <a href="https://discord.gg/XFGCpXewN4"><img src="https://discordapp.com/api/guilds/791292441302401054/widget.png?style=banner2" alt="Discord Banner 2"/></a>

@@ -32,3 +32,6 @@
 | [PhylloMachine](https://www.food4rhino.com/app/phyllomachine) | <img width="24" height="24" alt="PhylloMachine" src="https://static.food4rhino.com/s3fs-public/styles/thumbnail/public/users-files/daniel-gonzalez-abalde/app/pm14opt0.png"> | Model parametric plants using phyllotaxis patterns | <a href="https://www.food4rhino.com/app/phyllomachine">clusters</a> | <a href="https://discord.gg/pnxurTnmW3" ><img width="24" height="24" alt="Dani's Discord" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/discord.svg"> </a> | <a href="https://ko-fi.com/daniga" ><img width="24" height="24" alt="Dani's ko-fi" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/ko-fi.svg"> </a> |
  
 <!-- ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=DanielAbalde.DanielAbalde) -->
+
+ #### Let's talk.  
+ ![Discord Banner 2](https://discordapp.com/api/guilds/791292441302401054/widget.png?style=banner2)

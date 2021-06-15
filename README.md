@@ -35,3 +35,4 @@
 
  #### Let's talk
  <a href="https://discord.gg/XFGCpXewN4"><img src="https://discordapp.com/api/guilds/791292441302401054/widget.png?style=banner2" alt="Discord Banner 2"/></a>
+ <a href="https://discord.gg/jKVhqKQEnA"><img src="https://discordapp.com/api/guilds/770567990663577640/widget.png?style=banner2" alt="Discord Banner 2"/></a>

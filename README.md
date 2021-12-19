@@ -1,21 +1,18 @@
 <p align="center"><img alt="banner" src="https://raw.githubusercontent.com/DanielAbalde/DanielAbalde/main/processingTypoParticles.gif"></p>
 
 ### Hey there 👋,
-- 🦗 I develop plugins for Grasshopper and Rhinoceros (3d modelling). 
-- 🦚 My main project is [Peacock](https://www.food4rhino.com/app/peacock), a WIP algorithmic jewellery modelling plugin.
+- 🦗 I was develop plugins for Grasshopper and Rhinoceros (3d modelling). 
+- 🦚 My main project is [Peacock](https://www.food4rhino.com/app/peacock), a 3d jewellery framework.
+- :diamond_shape_with_a_dot_inside: Now I am learning Solitiy and exploring NFTs.
 
 #### About me
 - 🌦️ I'm from [Vigo](https://www.google.com/search?q=vigo+playa+de+samil&tbm=isch&ved=2ahUKEwjeiPep88zvAhURohoKHd3cCdIQ2-cCegQIABAA&oq=vigo+playa+de+samil&gs_lcp=CgNpbWcQAzIGCAAQCBAeMgYIABAIEB46AggAOgYIABAFEB46BAgAEB5QxFpYjmhgzmloAHAAeACAATeIAboFkgECMTSYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=d0VdYJ7xKpHEat25p5AN&bih=912&biw=1920&rlz=1C1CHBF_en-GBGB823GB823), Galicia. But I am in London since 2018.
-- 💖 I love procedural geometry, morphogenesis, AI and data design.
+- 💖 My love is procedural geometry, morphogenesis, AI, data design...
 
-#### Contact 
-- 🎧 I use [Discord](https://discord.gg/XFGCpXewN4) to publish my news and give support for my plugins.
-- 📰 I have some designs on [Facebook](https://www.facebook.com/DanielAbaldeDesigner). Please don't write to me by email.
- 
-
-#### Support
-- 🤲 I want to live decentralised, supported by whoever uses/like what I do. 
-- 🍻 You can support me with [Patreon](https://www.patreon.com/PeacockGH), or [ko-fi](https://www.ko-fi.com/daniga), thanks!
+#### Contact
+- 📰 I have some old designs on [Facebook](https://www.facebook.com/DanielAbaldeDesigner).
+- 🎧 I give quick support on my [discord server](https://discord.gg/XFGCpXewN4). I hate email for some reasons.
+- :recycle: My [Patreon](https://www.patreon.com/PeacockGH) is open to sponsor Peacock and [ko-fi](https://www.ko-fi.com/daniga) to thanks my work :).
 
  
  #### My plugins   
